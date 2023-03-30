@@ -1,9 +1,9 @@
 <center> <h1>BINARY TREE PROJECT</h1> </center>
 
-[image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Binary_tree_v2.svg/800px-Binary_tree_v2.svg.png)
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Binary_tree_v2.svg/800px-Binary_tree_v2.svg.png)
 
-#Binary Tree
-##What is Binary Tree?
+# Binary Tree
+## What is Binary Tree?
 
 A binary tree is a rooted tree that is also an ordered tree (a.k.a. plane tree) in which every node has at most two children.
 A rooted tree naturally imparts a notion of levels (distance from the root), 
